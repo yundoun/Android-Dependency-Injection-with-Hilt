@@ -13,7 +13,7 @@
 - hiltNavigationCompose = "1.1.0"
 - room = "2.6.1"
 - ksp = "1.9.0-1.0.13"
-- 
+
 ##### 파일 구조
 ![image](https://github.com/user-attachments/assets/134bf780-d68b-47ba-867e-6679cf2150d1)
 
